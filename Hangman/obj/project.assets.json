@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\Hangman.csproj",
+      "projectUniqueName": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman\\Hangman\\Hangman.csproj",
       "projectName": "Hangman",
-      "projectPath": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\Hangman.csproj",
+      "projectPath": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman\\Hangman\\Hangman.csproj",
       "packagesPath": "C:\\Users\\liljeblad.jonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\obj\\",
+      "outputPath": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman\\Hangman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
