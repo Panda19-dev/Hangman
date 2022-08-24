@@ -13,3 +13,18 @@ C:\Users\liljeblad.jonatan\Desktop\Hangman  - Prog\null\Hangman\Hangman\obj\Debu
 C:\Users\liljeblad.jonatan\Desktop\Hangman  - Prog\null\Hangman\Hangman\obj\Debug\net6.0\Hangman.pdb
 C:\Users\liljeblad.jonatan\Desktop\Hangman  - Prog\null\Hangman\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
 C:\Users\liljeblad.jonatan\Desktop\Hangman  - Prog\null\Hangman\Hangman\obj\Debug\net6.0\ref\Hangman.dll
+C:\Programmering2\Hangman\Hangman\bin\Debug\net6.0\Hangman.exe
+C:\Programmering2\Hangman\Hangman\bin\Debug\net6.0\Hangman.deps.json
+C:\Programmering2\Hangman\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+C:\Programmering2\Hangman\Hangman\bin\Debug\net6.0\Hangman.dll
+C:\Programmering2\Hangman\Hangman\bin\Debug\net6.0\Hangman.pdb
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.dll
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.pdb
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+C:\Programmering2\Hangman\Hangman\obj\Debug\net6.0\ref\Hangman.dll

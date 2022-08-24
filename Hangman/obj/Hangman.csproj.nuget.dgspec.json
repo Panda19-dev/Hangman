@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\Hangman.csproj": {}
+    "C:\\Programmering2\\Hangman\\Hangman\\Hangman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\Hangman.csproj": {
+    "C:\\Programmering2\\Hangman\\Hangman\\Hangman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\Hangman.csproj",
+        "projectUniqueName": "C:\\Programmering2\\Hangman\\Hangman\\Hangman.csproj",
         "projectName": "Hangman",
-        "projectPath": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\Hangman.csproj",
-        "packagesPath": "C:\\Users\\liljeblad.jonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liljeblad.jonatan\\Desktop\\Hangman  - Prog\\null\\Hangman\\Hangman\\obj\\",
+        "projectPath": "C:\\Programmering2\\Hangman\\Hangman\\Hangman.csproj",
+        "packagesPath": "C:\\Users\\lindbladaderud.tild\\.nuget\\packages\\",
+        "outputPath": "C:\\Programmering2\\Hangman\\Hangman\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\liljeblad.jonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\lindbladaderud.tild\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
